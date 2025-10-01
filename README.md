@@ -1,7 +1,9 @@
 # Airline-Passenger-Forecasting
 
-✈️ Airline Passenger Forecasting with ARIMA¶
-image.png
+✈️ Airline Passenger Forecasting with ARIMA
+
+<img width="776" height="448" alt="image" src="https://github.com/user-attachments/assets/92766948-48f7-4c95-8a4c-0bf2d397b806" />
+
 
 📌 Introduction
 This notebook focuses on time series forecasting using the classic Airline Passenger dataset (1949–1960).
